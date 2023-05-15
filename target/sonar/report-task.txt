@@ -2,5 +2,5 @@ projectKey=com.jdevs:studentapp
 serverUrl=http://13.232.74.2:9000
 serverVersion=8.9.10.61524
 dashboardUrl=http://13.232.74.2:9000/dashboard?id=com.jdevs%3Astudentapp
-ceTaskId=AYgeuqqm9wU8XJeO4B3g
-ceTaskUrl=http://13.232.74.2:9000/api/ce/task?id=AYgeuqqm9wU8XJeO4B3g
+ceTaskId=AYge8pM79wU8XJeO4B3k
+ceTaskUrl=http://13.232.74.2:9000/api/ce/task?id=AYge8pM79wU8XJeO4B3k
